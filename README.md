@@ -1,0 +1,2 @@
+# CakeDropzone
+Dropzone for CakePHP.
